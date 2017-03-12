@@ -1,0 +1,15 @@
+{
+  "name": "ionic-docsy",
+  "version": "1.0.0",
+  "description": "Open the docs for any Ionic component right from your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Willis",
+  "license": "ISC",
+  "dependencies": {
+    "opn": "^4.0.2",
+    "yargs": "^7.0.2"
+  }
+}
